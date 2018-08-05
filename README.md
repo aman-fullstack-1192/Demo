@@ -1,2 +1,2 @@
-# Demo
-Learning Javascript
+# Background Generator
+Learning Javascript, HTML, CSS
